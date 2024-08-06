@@ -1,0 +1,52 @@
+{
+  "Parked_Cars": [
+    {
+      "id": "7483",
+      "plate": "1990",
+      "namecus": "asuy",
+      "parkdur": "156",
+      "coc": "BLUE",
+      "phno": "287152133"
+    },
+    {
+      "id": "6681",
+      "plate": "1821",
+      "namecus": "Arun",
+      "parkdur": "120",
+      "coc": "Yellow",
+      "phno": "9348746757"
+    },
+    {
+      "id": "847e",
+      "plate": "1990",
+      "namecus": "vijok",
+      "parkdur": "120",
+      "coc": "BLUE",
+      "phno": "3275432"
+    },
+    {
+      "id": "846b",
+      "plate": "1821",
+      "namecus": "vijok",
+      "parkdur": "251",
+      "coc": "BLUE",
+      "phno": "9348746757"
+    },
+    {
+      "id": "2333",
+      "plate": "1990",
+      "namecus": "Anu",
+      "parkdur": "112",
+      "coc": "green",
+      "phno": "3287658734"
+    },
+    {
+      "id": "109e",
+      "plate": "2003",
+      "namecus": "Ansa",
+      "parkdur": "120",
+      "coc": "red",
+      "phno": "21213"
+    }
+  ]
+}

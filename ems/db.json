@@ -1,0 +1,18 @@
+{
+  "bikes": [
+    {
+      "id": "101",
+      "bName": "Raj Kumar",
+      "blicenseno": 234,
+      "bmobileno": 1234567890,
+      "bmodel": "rtyu456"
+    },
+    {
+      "id": "102",
+      "bName": "suth",
+      "blicenseno": "122",
+      "bmobileno": "0987654321",
+      "bmodel": "sdfg456"
+    }
+  ]
+}
